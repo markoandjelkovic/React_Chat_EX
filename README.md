@@ -1,6 +1,3 @@
-<img src="assets/readme/introduction.png" width="880" height="400">
-
-# Why I start this project?
 Nowadays, there are many React Native starter projects, seed projects and template projects are published on GitHub.
 All those projects has its own advantages and disadvantages.
 While I am investigating other senior developers starter kits, I finally summarized all those efforts and made my own source structure depends on many years of my Javascript and React Native experiences.
@@ -13,7 +10,6 @@ For now, it only has base structure and doesn't supports realtime chatting featu
 Therefore, any good ideas and nice suggestions which can promote this project more better are very welcomed and any PRs are fine too.
 I am really open minded and I would like to hear about other developers suggestions and recommendations.
 
-**Please don't forget tapping star button above to encourage me. Thanks**
 
 # Content
 
